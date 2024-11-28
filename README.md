@@ -46,9 +46,10 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
+![Screenshot 2024-11-28 145053](https://github.com/user-attachments/assets/2af66221-3057-4d69-bd5e-71f18c9515af)
 
-### Name:
-### Register Number:
+### Name:Kirutika KR
+### Register Number:24001080
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
